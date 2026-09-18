@@ -11,4 +11,4 @@
 </div>
 <br> 
 
-<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/22/10/royal-blood.jpg" width="50%" />
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/22/10/royal-blood.jpg" width="100%" />
