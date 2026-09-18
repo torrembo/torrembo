@@ -9,5 +9,6 @@
   <br>
 
 </div>
+<br> 
 
-<img src="https://www.metaltalk.net/wp-content/uploads/2023/10/Royal-Blood-10-Eventim-Apollo-Oct-2023-Photo-Antonio-Giannattsio.jpg" width="100%" />
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/22/10/royal-blood.jpg" width="100%" />
